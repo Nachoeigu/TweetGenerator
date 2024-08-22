@@ -1,0 +1,13 @@
+{
+  "python_version": "3.11",
+  "dockerfile_lines": [],
+  "dependencies": [
+    "."
+  ],
+  "graphs": {
+    "tweet_generator": "./src/main.py:tweet_graph"
+  },
+  "env": [
+    "OPENAI_API_KEY"
+  ]
+}

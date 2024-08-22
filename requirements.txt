@@ -1,0 +1,8 @@
+langchain_community
+python-dotenv
+langchain_openai
+langchain_core
+langgraph
+pytube
+bs4
+lxml
